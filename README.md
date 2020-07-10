@@ -1,1 +1,1 @@
-Todo Application
+My React Application
