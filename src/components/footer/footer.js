@@ -2,7 +2,7 @@ import React from "react";
 import './footer.css'
 
 const Footer = () => {
-    const foot = React.createElement('footer', null, '© Copyright Matthew Farrel')
+    const foot = React.createElement('footer', null, '© Copyright Matthew Farrel CORP')
         return (
             <nav className="footer navbar navbar-expand-md bg-info navbar-dark">
                 <span className="navbar-brand">
