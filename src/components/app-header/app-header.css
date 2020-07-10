@@ -1,0 +1,16 @@
+.app-header {
+    align-items: flex-end;
+}
+
+.app-header h4 {
+    flex-grow: 1;
+    text-align: center;
+    align-items: flex-end;
+}
+
+.app-header h5 {
+    font-size: 0.8rem;
+    color: white;
+    text-align: center;
+    align-items: flex-end;
+}

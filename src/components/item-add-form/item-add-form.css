@@ -1,0 +1,9 @@
+.item-add-form {
+    flex-grow: 2;
+    text-align: center;
+    align-items: flex-end;
+    font-size: 1.8rem;
+}
+.item-add-form input {
+    margin-right: 2px;
+}
